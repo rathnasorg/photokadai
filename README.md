@@ -1,3 +1,6 @@
+# **UPDATE: [i4tow](https://github.com/rathnasorg/i4tow-album) replaced [this(photokadai)](https://github.com/rathnasorg/photokadai) repo. It is archived and meant to be here only for reference sake.**
+
+
 # Photokadai
 Simple photo album generator.
 
